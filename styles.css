@@ -1,0 +1,14 @@
+ul li{
+    display: inline-block;
+    text-decoration: underline;
+    padding: 20px;
+    font-size: larger;
+    font-weight: bolder;
+}
+ul{
+    text-align: right;
+}
+
+   
+  
+  
